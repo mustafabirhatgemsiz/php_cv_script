@@ -9,6 +9,8 @@ Back-End
 
 PHP and MySQL Insert, Select, Delete and Update 
 
+![Ekran görüntüsü 2021-04-16 020654](https://user-images.githubusercontent.com/77343458/114949115-fc2c3b80-9e58-11eb-80ba-89c3239219ba.png)
+
 ![resim](https://user-images.githubusercontent.com/77343458/114949128-01898600-9e59-11eb-94a6-81418fa26638.png)
 
 ![Ekran görüntüsü 2021-04-16 020839](https://user-images.githubusercontent.com/77343458/114949097-f898b480-9e58-11eb-9186-31e237e5ba0f.png)
@@ -27,4 +29,3 @@ PHP and MySQL Insert, Select, Delete and Update
 
 ![Ekran görüntüsü 2021-04-16 021027](https://user-images.githubusercontent.com/77343458/114949111-fafb0e80-9e58-11eb-81d9-f4b3293fb94a.png)
 
-![Ekran görüntüsü 2021-04-16 020654](https://user-images.githubusercontent.com/77343458/114949115-fc2c3b80-9e58-11eb-80ba-89c3239219ba.png)

@@ -1,3 +1,6 @@
 # php_cv_script
 echo "PHP &amp; MySQL";
-![resim](https://user-images.githubusercontent.com/77343458/114949128-01898600-9e59-11eb-94a6-81418fa26638.png)
+
+Front-End
+
+![Ekran görüntüsü 2021-04-16 020541](https://user-images.githubusercontent.com/77343458/114949112-fb93a500-9e58-11eb-9d23-299eff7f6660.png)
